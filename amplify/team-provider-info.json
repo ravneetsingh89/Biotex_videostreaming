@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-videostreaming1-dev-211609-authRole",
+      "UnauthRoleArn": "arn:aws:iam::666973420669:role/amplify-videostreaming1-dev-211609-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::666973420669:role/amplify-videostreaming1-dev-211609-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-videostreaming1-dev-211609-deployment",
+      "UnauthRoleName": "amplify-videostreaming1-dev-211609-unauthRole",
+      "StackName": "amplify-videostreaming1-dev-211609",
+      "StackId": "arn:aws:cloudformation:us-east-1:666973420669:stack/amplify-videostreaming1-dev-211609/3a5d8e10-2582-11ee-8039-0ac8ba56f375",
+      "AmplifyAppId": "d1rj5jf2caiuzx"
+    },
+    "categories": {
+      "auth": {
+        "videostreaming160437b6b": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1rj5jf2caiuzx",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
